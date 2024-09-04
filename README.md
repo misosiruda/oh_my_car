@@ -4,17 +4,17 @@
 
 ## 목차
 
-- [개요](https://github.com/JongHoonKim1004/Project_Survey#-개요)
+- [개요](https://github.com/misosiruda/oh_my_car/blob/main/README.md#-%EA%B0%9C%EC%9A%94)
 
-- [기술 스택](https://github.com/JongHoonKim1004/Project_Survey#-기술-스택)
+- [기술 스택](https://github.com/misosiruda/oh_my_car/blob/main/README.md#-%EA%B8%B0%EC%88%A0-%EC%8A%A4%ED%83%9D)
 
-- [프로젝트 설계](https://github.com/JongHoonKim1004/Project_Survey#-프로젝트-설계)
+- [프로젝트 설계](https://github.com/misosiruda/oh_my_car/blob/main/README.md#-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%A4%EA%B3%84-%EA%B5%AC%ED%98%84--ppt--erd-usecase)
 
-- [핵심 기능](https://github.com/JongHoonKim1004/Project_Survey#-핵심-기능)
+- [핵심 기능](https://github.com/misosiruda/oh_my_car/blob/main/README.md#-%ED%95%B5%EC%8B%AC-%EA%B8%B0%EB%8A%A5)
 
-- [주요기능 실행화면](https://github.com/JongHoonKim1004/Project_Survey#-주요기능-실행화면)
+- [주요기능 실행화면](https://github.com/misosiruda/oh_my_car/blob/main/README.md#-%EC%A3%BC%EC%9A%94%EA%B8%B0%EB%8A%A5-%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B4)
 
-- [개선사항](https://github.com/oh_my_car/Project_Survey#-개선사항)
+- [개선사항](https://github.com/misosiruda/oh_my_car/blob/main/README.md#-%EA%B0%9C%EC%84%A0%EC%82%AC%ED%95%AD)
 
 ## 🚩 개요
 
